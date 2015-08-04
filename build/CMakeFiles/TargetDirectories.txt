@@ -1,0 +1,1 @@
+/home/pi/card_polling/build/CMakeFiles/card_polling.dir
